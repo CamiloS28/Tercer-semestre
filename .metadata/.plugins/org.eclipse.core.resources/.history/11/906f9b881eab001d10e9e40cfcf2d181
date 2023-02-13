@@ -1,0 +1,10 @@
+package Threads_Ejemplos_1;
+
+public class EjecutaMiClaseTrhead {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

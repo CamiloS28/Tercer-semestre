@@ -1,0 +1,10 @@
+package Threads_Ejemplos_4;
+
+public class EjecutaMiClasePingPong {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
