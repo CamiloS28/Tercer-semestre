@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Ejemplo1.MiPrimerThread"/>
+    <fullyQualifiedTypeName name="Ejemplo2.Mio2oThread"/>
+    <fullyQualifiedTypeName name="Threads_Ejemplos_1.MiClaseThread"/>
+    <fullyQualifiedTypeName name="Threads_Ejemplos_2.MiClaseRunnable"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Threads_Ejemplos_3.ThreadEjemplo"/>
+    <fullyQualifiedTypeName name="Threads_Ejemplos_4.EjecutaMiClasePingPong"/>
+    <fullyQualifiedTypeName name="Threads_Ejemplos_4.EjemploPingPong"/>
+    <fullyQualifiedTypeName name="Prioridades_Ejemplo_1.SubirBajar"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="Prioridades_Ejemplo_2.EjemploPrioridad"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+</qualifiedTypeNameHistroy>
