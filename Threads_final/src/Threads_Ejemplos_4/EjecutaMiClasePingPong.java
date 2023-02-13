@@ -1,0 +1,21 @@
+package Threads_Ejemplos_4;
+
+public class EjecutaMiClasePingPong {
+
+	public static void main(String[] args) {
+		//Declaraciòn de Hilos
+		EjemploPingPong p1 = new EjemploPingPong("Golpe uno", 30);
+		EjemploPingPong p2 = new EjemploPingPong("Golpe dos", 10);
+		//Alistamiento de los hilos -Activaciòn-
+		p1.start();
+		p2.start();
+		//Espera de dos segundos
+		try {
+			Thread.sleep(5000);
+		}catch (InterruptedException e) {
+			//return;
+		}
+		p1.interrupt();
+		p2.interrupt();
+	}
+}
