@@ -319,3 +319,8 @@ org.eclipse.jgit.errors.TransportException: https://github.com/CamiloS28/Tercer-
 	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
 	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.core.resources 2 2 2023-02-12 19:29:35.652
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-02-12 19:29:35.652
+!MESSAGE The project description file (.project) for 'Threads' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
