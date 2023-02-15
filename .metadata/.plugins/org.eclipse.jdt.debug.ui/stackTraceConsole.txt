@@ -1,1 +1,2 @@
-Paste stack traces into this console and follow hyperlinks to source code.
+int min = 5000;
+	int max = 1000000;

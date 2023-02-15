@@ -8,8 +8,13 @@
     <fullyQualifiedTypeName name="Threads_Ejemplos_3.ThreadEjemplo"/>
     <fullyQualifiedTypeName name="Threads_Ejemplos_4.EjecutaMiClasePingPong"/>
     <fullyQualifiedTypeName name="Threads_Ejemplos_4.EjemploPingPong"/>
-    <fullyQualifiedTypeName name="Prioridades_Ejemplo_1.SubirBajar"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="Prioridades_Ejemplo_2.EjemploPrioridad"/>
+    <fullyQualifiedTypeName name="Prioridades_Ejemplo_1.SubirBajar"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="Sincronizacion_Ejemplo_1.PeligroCuenta"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="PeligroCuenta"/>
+    <fullyQualifiedTypeName name="Abonar"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
